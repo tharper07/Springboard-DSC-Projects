@@ -23,6 +23,8 @@ The questions/concerns that I'm choosing to focus on are:
 
 4. For elementary schools, are the state MCAS results for charter schools significantly different from their neighboring public schools?
 
+5. Can we predict the success of a school from any of the above features? Also, if we were to collect similar data from previous years, would there be a trend in changing populations that we could use to predict the demographics of charter and public schools in the future?
+
 ## Method
 
 To answer the above questions, I will attempt the following:
