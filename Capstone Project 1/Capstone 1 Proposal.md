@@ -35,6 +35,8 @@ To answer the above questions, I will attempt the following:
 
 3. Once the public and charter schools have been grouped by zip code, I will perform a two-sample goodness of fit test to see if there are statistically significant differences in the charter and public school populations for each of the questions I asked above.
 
+4. To predict success for schools, I will use various regression techniques and classifiers using demographic, testing, school type, and college enrollment data as features.
+
 ## Deliverables
 
 At the conclusion of this project, I will be able to deliver:
